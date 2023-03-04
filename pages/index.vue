@@ -1,3 +1,3 @@
 <template>
-  Hello epta!
+  <h1>Home Page</h1>
 </template>
